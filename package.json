@@ -1,0 +1,20 @@
+{
+  "name": "meanapp",
+  "version": "1.0.0",
+  "description": "Mean stack app example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mean",
+    "stack"
+  ],
+  "author": "naitik",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "express": "^4.13.3",
+    "mongodb": "^2.1.4"
+  }
+}
